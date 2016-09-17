@@ -1,9 +1,9 @@
 
 TRABAJO FINAL DE GRADO
 # Categorización de Sentimientos en Jopara: Técnicas Basadas en Léxico y en Aprendizaje de Máquina para una Mezcla de Lengua.
-- Sentiment Categorization on a Creole Language with Lexicon-Based and Machine Learning Techniques -
-Autores: Adolfo Alfredo Ríos Núñez - Pedro José Amarilla Oviedo (adolforinu[at]]gmail.com, pj.amarilla[at]gmail.com)
-Orientador: Dr. Ing. Gustavo Giménez Lugo (gustavo[at]dainf.ct.utfpr.edu.br)
+- Sentiment Categorization on a Creole Language with Lexicon-Based and Machine Learning Techniques
+- Autores: Adolfo Alfredo Ríos Núñez - Pedro José Amarilla Oviedo (adolforinu[at]]gmail.com, pj.amarilla[at]gmail.com)
+- Orientador: Dr. Ing. Gustavo Giménez Lugo (gustavo[at]dainf.ct.utfpr.edu.br)
 
 # ORGANIZACION DE ARCHIVOS:
 
