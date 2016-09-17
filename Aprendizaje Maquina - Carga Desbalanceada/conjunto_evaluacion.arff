@@ -1,0 +1,1440 @@
+@relation 'Telecom_Tweets-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \"-weka.filters.unsupervised.attribute.Reorder-R2-last,first'
+
+@attribute abierto numeric
+@attribute abre numeric
+@attribute abren numeric
+@attribute abrir numeric
+@attribute aca numeric
+@attribute acaba numeric
+@attribute acceder numeric
+@attribute ace numeric
+@attribute acerca numeric
+@attribute acreditan numeric
+@attribute active numeric
+@attribute actualiza numeric
+@attribute ademas numeric
+@attribute adicional numeric
+@attribute adquirir numeric
+@attribute africa numeric
+@attribute ago numeric
+@attribute agradecer numeric
+@attribute aguante numeric
+@attribute ah numeric
+@attribute ahi numeric
+@attribute ahora numeric
+@attribute ai numeric
+@attribute aire numeric
+@attribute albirro numeric
+@attribute alguien numeric
+@attribute algun numeric
+@attribute alguna numeric
+@attribute alla numeric
+@attribute alzen numeric
+@attribute am numeric
+@attribute amable numeric
+@attribute amables numeric
+@attribute ambos numeric
+@attribute amigos numeric
+@attribute amo numeric
+@attribute amor numeric
+@attribute ancho numeric
+@attribute anda numeric
+@attribute andate numeric
+@attribute ande numeric
+@attribute anoche numeric
+@attribute anota numeric
+@attribute antena numeric
+@attribute anterior numeric
+@attribute aora numeric
+@attribute apagon numeric
+@attribute aparato numeric
+@attribute aparece numeric
+@attribute aparecieron numeric
+@attribute apf numeric
+@attribute aplicaciones numeric
+@attribute aqui numeric
+@attribute argentina numeric
+@attribute arranco numeric
+@attribute arreglan numeric
+@attribute arreglar numeric
+@attribute arreglen numeric
+@attribute arrepiento numeric
+@attribute asco numeric
+@attribute asi numeric
+@attribute asistencia numeric
+@attribute asquerosamente numeric
+@attribute asuncion numeric
+@attribute at numeric
+@attribute atencion numeric
+@attribute atender numeric
+@attribute atenderte numeric
+@attribute atendieron numeric
+@attribute atendio numeric
+@attribute atento numeric
+@attribute atienda numeric
+@attribute atiendan numeric
+@attribute atiende numeric
+@attribute atienden numeric
+@attribute audio numeric
+@attribute aun numeric
+@attribute auspicia numeric
+@attribute auspiciante numeric
+@attribute automaticamente numeric
+@attribute automatico numeric
+@attribute avisa numeric
+@attribute avisar numeric
+@attribute avisenle numeric
+@attribute aviso numeric
+@attribute ay numeric
+@attribute ayer numeric
+@attribute ayuda numeric
+@attribute ayudar numeric
+@attribute ayudarme numeric
+@attribute año numeric
+@attribute años numeric
+@attribute baja numeric
+@attribute bajan numeric
+@attribute bajar numeric
+@attribute banda numeric
+@attribute barbaro numeric
+@attribute barreto numeric
+@attribute barrio numeric
+@attribute basico numeric
+@attribute basura numeric
+@attribute bateria numeric
+@attribute beneficio numeric
+@attribute besos numeric
+@attribute bien numeric
+@attribute bla numeric
+@attribute blackberry numeric
+@attribute blanco numeric
+@attribute bloquear numeric
+@attribute bm numeric
+@attribute boca numeric
+@attribute bola numeric
+@attribute boludo numeric
+@attribute brasil numeric
+@attribute brindan numeric
+@attribute bs numeric
+@attribute buen numeric
+@attribute buena numeric
+@attribute buenas numeric
+@attribute buenisima numeric
+@attribute buenisimo numeric
+@attribute bueno numeric
+@attribute burocracia numeric
+@attribute buscar numeric
+@attribute cable numeric
+@attribute caca numeric
+@attribute cada numeric
+@attribute cae numeric
+@attribute caer numeric
+@attribute cagada numeric
+@attribute caja numeric
+@attribute cajero numeric
+@attribute calidad numeric
+@attribute call numeric
+@attribute camarote numeric
+@attribute cambia numeric
+@attribute cambiar numeric
+@attribute cambiaron numeric
+@attribute cambie numeric
+@attribute cambien numeric
+@attribute cambio numeric
+@attribute campaña numeric
+@attribute campus numeric
+@attribute canal numeric
+@attribute canales numeric
+@attribute cancelar numeric
+@attribute canse numeric
+@attribute cantidad numeric
+@attribute capaz numeric
+@attribute cara numeric
+@attribute carajo numeric
+@attribute carajos numeric
+@attribute carapegua numeric
+@attribute carga numeric
+@attribute cargador numeric
+@attribute cargar numeric
+@attribute casa numeric
+@attribute casi numeric
+@attribute caso numeric
+@attribute castigo numeric
+@attribute causa numeric
+@attribute cayo numeric
+@attribute cc numeric
+@attribute cde numeric
+@attribute cedula numeric
+@attribute cel numeric
+@attribute celular numeric
+@attribute celulares numeric
+@attribute centavo numeric
+@attribute center numeric
+@attribute central numeric
+@attribute centro numeric
+@attribute cero numeric
+@attribute cerro numeric
+@attribute chaco numeric
+@attribute chau numeric
+@attribute che numeric
+@attribute chera numeric
+@attribute chicos numeric
+@attribute chile numeric
+@attribute chip numeric
+@attribute chiste numeric
+@attribute chorro numeric
+@attribute chupa numeric
+@attribute chupan numeric
+@attribute ci numeric
+@attribute cierto numeric
+@attribute ciudad numeric
+@attribute claro numeric
+@attribute clasico numeric
+@attribute cliente numeric
+@attribute clientes numeric
+@attribute club numeric
+@attribute cm numeric
+@attribute cn numeric
+@attribute cobertura numeric
+@attribute cobra numeric
+@attribute cobran numeric
+@attribute cobrar numeric
+@attribute codigo numeric
+@attribute coleros numeric
+@attribute colmo numeric
+@attribute comen numeric
+@attribute comer numeric
+@attribute comieron numeric
+@attribute comilona numeric
+@attribute comilonateleton numeric
+@attribute compartir numeric
+@attribute compañia numeric
+@attribute competencia numeric
+@attribute completo numeric
+@attribute compra numeric
+@attribute comprar numeric
+@attribute compraron numeric
+@attribute compre numeric
+@attribute compro numeric
+@attribute comunicacion numeric
+@attribute comunicar numeric
+@attribute comunicarme numeric
+@attribute comunicarse numeric
+@attribute comunico numeric
+@attribute concierto numeric
+@attribute conciertos numeric
+@attribute conecta numeric
+@attribute conecte numeric
+@attribute conexion numeric
+@attribute configurar numeric
+@attribute configuro numeric
+@attribute confirmar numeric
+@attribute conmigo numeric
+@attribute conocerle numeric
+@attribute consulta numeric
+@attribute consultarles numeric
+@attribute consulto numeric
+@attribute consume numeric
+@attribute contado numeric
+@attribute contar numeric
+@attribute contestar numeric
+@attribute contesten numeric
+@attribute contigo numeric
+@attribute contrato numeric
+@attribute corazon numeric
+@attribute core numeric
+@attribute cornudo numeric
+@attribute cornudos numeric
+@attribute coronel numeric
+@attribute corporativa numeric
+@attribute correo numeric
+@attribute corta numeric
+@attribute cortado numeric
+@attribute cortan numeric
+@attribute cortaron numeric
+@attribute corte numeric
+@attribute corto numeric
+@attribute cosa numeric
+@attribute cosas numeric
+@attribute costo numeric
+@attribute costumbre numeric
+@attribute cren numeric
+@attribute creo numeric
+@attribute crer numeric
+@attribute cuales numeric
+@attribute cualquier numeric
+@attribute cuanto numeric
+@attribute cuantos numeric
+@attribute cuarta numeric
+@attribute cuelga numeric
+@attribute cuenta numeric
+@attribute cuento numeric
+@attribute cuesta numeric
+@attribute culo numeric
+@attribute culpa numeric
+@attribute cumple numeric
+@attribute cumpleaños numeric
+@attribute cuotas numeric
+@attribute da numeric
+@attribute dale numeric
+@attribute dan numeric
+@attribute dar numeric
+@attribute darnos numeric
+@attribute das numeric
+@attribute datos numeric
+@attribute deben numeric
+@attribute deberian numeric
+@attribute debo numeric
+@attribute decente numeric
+@attribute decentes numeric
+@attribute decepcion numeric
+@attribute decepcionado numeric
+@attribute decir numeric
+@attribute decision numeric
+@attribute deco numeric
+@attribute decodificador numeric
+@attribute decodificadores numeric
+@attribute decos numeric
+@attribute defensores numeric
+@attribute deficiente numeric
+@attribute definitivamente numeric
+@attribute deja numeric
+@attribute dejan numeric
+@attribute dejar numeric
+@attribute dejaron numeric
+@attribute deje numeric
+@attribute dejen numeric
+@attribute dejense numeric
+@attribute dejo numeric
+@attribute delincuente numeric
+@attribute demasiado numeric
+@attribute demoran numeric
+@attribute den numeric
+@attribute dentro numeric
+@attribute deportes numeric
+@attribute derechos numeric
+@attribute desaparece numeric
+@attribute desastre numeric
+@attribute descaradamente numeric
+@attribute descuento numeric
+@attribute despues numeric
+@attribute detalles numeric
+@attribute devuelvan numeric
+@attribute devuelvanme numeric
+@attribute dezer numeric
+@attribute dia numeric
+@attribute dias numeric
+@attribute dice numeric
+@attribute dicen numeric
+@attribute diciendo numeric
+@attribute dieron numeric
+@attribute diferencia numeric
+@attribute diferente numeric
+@attribute dificil numeric
+@attribute digitales numeric
+@attribute digo numeric
+@attribute dijeron numeric
+@attribute dinelco numeric
+@attribute dio numeric
+@attribute dios numeric
+@attribute directamente numeric
+@attribute directo numeric
+@attribute disponible numeric
+@attribute disqulpe numeric
+@attribute dm numeric
+@attribute doble numeric
+@attribute domingo numeric
+@attribute dos numeric
+@attribute dsd numeric
+@attribute duda numeric
+@attribute edificio numeric
+@attribute eh numeric
+@attribute ejemplo numeric
+@attribute embargo numeric
+@attribute emoneg numeric
+@attribute emopos numeric
+@attribute empleados numeric
+@attribute empresa numeric
+@attribute enamore numeric
+@attribute encarnacion numeric
+@attribute encima numeric
+@attribute encontre numeric
+@attribute enserio numeric
+@attribute entiende numeric
+@attribute entonces numeric
+@attribute entrada numeric
+@attribute entradas numeric
+@attribute entregan numeric
+@attribute entregar numeric
+@attribute entren numeric
+@attribute envia numeric
+@attribute envian numeric
+@attribute enviar numeric
+@attribute enviarles numeric
+@attribute enviaron numeric
+@attribute envie numeric
+@attribute envio numeric
+@attribute equipo numeric
+@attribute equipos numeric
+@attribute error numeric
+@attribute escribo numeric
+@attribute escuchar numeric
+@attribute especial numeric
+@attribute espera numeric
+@attribute esperando numeric
+@attribute esperar numeric
+@attribute espere numeric
+@attribute espero numeric
+@attribute estafa numeric
+@attribute estreno numeric
+@attribute etc numeric
+@attribute excelente numeric
+@attribute excusa numeric
+@attribute existe numeric
+@attribute explicacion numeric
+@attribute explicar numeric
+@attribute extraño numeric
+@attribute facil numeric
+@attribute factura numeric
+@attribute facturan numeric
+@attribute facturas numeric
+@attribute falta numeric
+@attribute familia numeric
+@attribute favor numeric
+@attribute favorito numeric
+@attribute felicidades numeric
+@attribute felicitaciones numeric
+@attribute feliz numeric
+@attribute fernando numeric
+@attribute festejar numeric
+@attribute fibertel numeric
+@attribute fibra numeric
+@attribute fila numeric
+@attribute fin numeric
+@attribute final numeric
+@attribute fomentan numeric
+@attribute foto numeric
+@attribute fotos numeric
+@attribute fox numeric
+@attribute fre numeric
+@attribute frente numeric
+@attribute frio numeric
+@attribute fuerza numeric
+@attribute full numeric
+@attribute funciona numeric
+@attribute funcionaba numeric
+@attribute funcionan numeric
+@attribute funcionando numeric
+@attribute funcionar numeric
+@attribute funcionarios numeric
+@attribute funcione numeric
+@attribute funcionen numeric
+@attribute funciono numeric
+@attribute futbol numeric
+@attribute gabriela numeric
+@attribute galaxy numeric
+@attribute game numeric
+@attribute ganas numeric
+@attribute gane numeric
+@attribute garantia numeric
+@attribute gb numeric
+@attribute general numeric
+@attribute gente numeric
+@attribute giros numeric
+@attribute gobierno numeric
+@attribute gracias numeric
+@attribute gran numeric
+@attribute grande numeric
+@attribute grandes numeric
+@attribute gratis numeric
+@attribute grupo numeric
+@attribute gs numeric
+@attribute guau numeric
+@attribute gustaria numeric
+@attribute gusto numeric
+@attribute haberme numeric
+@attribute habilita numeric
+@attribute habiliten numeric
+@attribute habilito numeric
+@attribute hablando numeric
+@attribute hablar numeric
+@attribute hable numeric
+@attribute hace numeric
+@attribute hacen numeric
+@attribute hacer numeric
+@attribute hacerles numeric
+@attribute hacia numeric
+@attribute haedo numeric
+@attribute hagan numeric
+@attribute hago numeric
+@attribute haremos numeric
+@attribute hbo numeric
+@attribute hd numeric
+@attribute hdp numeric
+@attribute headquarters numeric
+@attribute hey numeric
+@attribute hice numeric
+@attribute hicieron numeric
+@attribute hicimos numeric
+@attribute hijos numeric
+@attribute hiper numeric
+@attribute historia numeric
+@attribute historias numeric
+@attribute hogar numeric
+@attribute hola numeric
+@attribute hora numeric
+@attribute horario numeric
+@attribute horarios numeric
+@attribute horas numeric
+@attribute horrible numeric
+@attribute hoy numeric
+@attribute hs numeric
+@attribute htc numeric
+@attribute ht… numeric
+@attribute huevos numeric
+@attribute humo numeric
+@attribute iba numeric
+@attribute icono numeric
+@attribute igual numeric
+@attribute ilimitada numeric
+@attribute ilimitado numeric
+@attribute ilimitados numeric
+@attribute im numeric
+@attribute imagen numeric
+@attribute imagino numeric
+@attribute importa numeric
+@attribute imposible numeric
+@attribute impotencia numeric
+@attribute impresionante numeric
+@attribute increible numeric
+@attribute ineptos numeric
+@attribute info numeric
+@attribute informar numeric
+@attribute inservible numeric
+@attribute instalacion numeric
+@attribute instalaron numeric
+@attribute intentando numeric
+@attribute interesante numeric
+@attribute interior numeric
+@attribute internet numeric
+@attribute inutil numeric
+@attribute inutiles numeric
+@attribute inventan numeric
+@attribute iphone numeric
+@attribute ir numeric
+@attribute itau numeric
+@attribute ja numeric
+@attribute jaja numeric
+@attribute jajaja numeric
+@attribute jajajaja numeric
+@attribute jajajajaja numeric
+@attribute jajajajajajajajaja numeric
+@attribute jamas numeric
+@attribute jara numeric
+@attribute joda numeric
+@attribute jode numeric
+@attribute joden numeric
+@attribute joder numeric
+@attribute jodiendo numeric
+@attribute juega numeric
+@attribute jugador numeric
+@attribute jugar numeric
+@attribute jukata numeric
+@attribute justo numeric
+@attribute kaka numeric
+@attribute killers numeric
+@attribute kuerai numeric
+@attribute lado numeric
+@attribute ladron numeric
+@attribute ladrones numeric
+@attribute lali numeric
+@attribute lambare numeric
+@attribute lamentable numeric
+@attribute lanata numeric
+@attribute lanza numeric
+@attribute lastima numeric
+@attribute lei numeric
+@attribute lenta numeric
+@attribute lento numeric
+@attribute libera numeric
+@attribute lindo numeric
+@attribute linea numeric
+@attribute lineas numeric
+@attribute llama numeric
+@attribute llamada numeric
+@attribute llamadas numeric
+@attribute llamando numeric
+@attribute llamar numeric
+@attribute llamas numeric
+@attribute llame numeric
+@attribute llamo numeric
+@attribute llega numeric
+@attribute llegar numeric
+@attribute llego numeric
+@attribute llegoels4atigo numeric
+@attribute llegue numeric
+@attribute llevar numeric
+@attribute llevo numeric
+@attribute llorar numeric
+@attribute lloratenestigo numeric
+@attribute llueva numeric
+@attribute lluvia numeric
+@attribute loca numeric
+@attribute local numeric
+@attribute loco numeric
+@attribute long numeric
+@attribute lopez numeric
+@attribute lorenzo numeric
+@attribute luego numeric
+@attribute lumia numeric
+@attribute lunes numeric
+@attribute luque numeric
+@attribute mac numeric
+@attribute madrugada numeric
+@attribute mail numeric
+@attribute mal numeric
+@attribute mala numeric
+@attribute maldita numeric
+@attribute maldito numeric
+@attribute malditos numeric
+@attribute malisima numeric
+@attribute malo numeric
+@attribute malos numeric
+@attribute mama numeric
+@attribute mandar numeric
+@attribute mande numeric
+@attribute manera numeric
+@attribute manga numeric
+@attribute mano numeric
+@attribute mantenimiento numeric
+@attribute mariscal numeric
+@attribute marketing numeric
+@attribute maron numeric
+@attribute martinez numeric
+@attribute matar numeric
+@attribute mayor numeric
+@attribute mañana numeric
+@attribute mb numeric
+@attribute mbae numeric
+@attribute mbore numeric
+@attribute mcal numeric
+@attribute media numeric
+@attribute medio numeric
+@attribute mega numeric
+@attribute megas numeric
+@attribute mejor numeric
+@attribute mejoran numeric
+@attribute mejorar numeric
+@attribute mejoren numeric
+@attribute mejores numeric
+@attribute menos numeric
+@attribute mensaje numeric
+@attribute mensajes numeric
+@attribute mensual numeric
+@attribute mensualmente numeric
+@attribute mes numeric
+@attribute meses numeric
+@attribute meteorito numeric
+@attribute micro numeric
+@attribute mierda numeric
+@attribute mierdas numeric
+@attribute migracion numeric
+@attribute mil numeric
+@attribute min numeric
+@attribute mini numeric
+@attribute minimo numeric
+@attribute minuto numeric
+@attribute minutos numeric
+@attribute mira numeric
+@attribute misma numeric
+@attribute mismo numeric
+@attribute mnj numeric
+@attribute modelo numeric
+@attribute modem numeric
+@attribute mojones numeric
+@attribute momento numeric
+@attribute monopolio numeric
+@attribute monto numeric
+@attribute mora numeric
+@attribute motivo numeric
+@attribute movil numeric
+@attribute muchas numeric
+@attribute mudar numeric
+@attribute mude numeric
+@attribute mueran numeric
+@attribute muerte numeric
+@attribute mufa numeric
+@attribute multicanal numeric
+@attribute multiplaza numeric
+@attribute mundial numeric
+@attribute mundo numeric
+@attribute musica numeric
+@attribute na numeric
+@attribute nacional numeric
+@attribute nadie numeric
+@attribute navegacion numeric
+@attribute necesito numeric
+@attribute nervioso numeric
+@attribute net numeric
+@attribute nexus numeric
+@attribute ningun numeric
+@attribute ninguna numeric
+@attribute ninguno numeric
+@attribute noche numeric
+@attribute nokia numeric
+@attribute nomas numeric
+@attribute nombre numeric
+@attribute normal numeric
+@attribute note numeric
+@attribute nro numeric
+@attribute nucleos numeric
+@attribute nueva numeric
+@attribute nuevo numeric
+@attribute nuevos numeric
+@attribute numero numeric
+@attribute numeros numeric
+@attribute nunca numeric
+@attribute nunk numeric
+@attribute não numeric
+@attribute obvio numeric
+@attribute odio numeric
+@attribute of numeric
+@attribute ofrecen numeric
+@attribute ofrecer numeric
+@attribute ojala numeric
+@attribute ojo numeric
+@attribute ok numeric
+@attribute olimpia numeric
+@attribute olvido numeric
+@attribute onda numeric
+@attribute one numeric
+@attribute online numeric
+@attribute opcion numeric
+@attribute opciones numeric
+@attribute operacion numeric
+@attribute operadora numeric
+@attribute optica numeric
+@attribute orgullosos numeric
+@attribute orto numeric
+@attribute osea numeric
+@attribute others numeric
+@attribute oviedo numeric
+@attribute pa numeric
+@attribute paciencia numeric
+@attribute pack numeric
+@attribute packs numeric
+@attribute paella numeric
+@attribute paga numeric
+@attribute pagamos numeric
+@attribute pagando numeric
+@attribute pagar numeric
+@attribute pagina numeric
+@attribute pago numeric
+@attribute pague numeric
+@attribute pais numeric
+@attribute palabra numeric
+@attribute palma numeric
+@attribute paqete numeric
+@attribute paquete numeric
+@attribute paquetes numeric
+@attribute paquetigo numeric
+@attribute paquetigos numeric
+@attribute par numeric
+@attribute paraguari numeric
+@attribute paraguay numeric
+@attribute paraguayo numeric
+@attribute paramore numeric
+@attribute parece numeric
+@attribute pario numeric
+@attribute parte numeric
+@attribute participa numeric
+@attribute partido numeric
+@attribute partir numeric
+@attribute pasa numeric
+@attribute pasan numeric
+@attribute pasando numeric
+@attribute pasar numeric
+@attribute pasaron numeric
+@attribute pase numeric
+@attribute paso numeric
+@attribute patetico numeric
+@attribute pedi numeric
+@attribute pedir numeric
+@attribute pedo numeric
+@attribute pelicula numeric
+@attribute pena numeric
+@attribute pende numeric
+@attribute pendientes numeric
+@attribute peor numeric
+@attribute perder numeric
+@attribute perdidas numeric
+@attribute perdon numeric
+@attribute perfecto numeric
+@attribute permite numeric
+@attribute persona numeric
+@attribute personal numeric
+@attribute personas numeric
+@attribute pesima numeric
+@attribute pesimo numeric
+@attribute pide numeric
+@attribute piensan numeric
+@attribute pienso numeric
+@attribute pin numeric
+@attribute pio numeric
+@attribute plagas numeric
+@attribute plan numeric
+@attribute planes numeric
+@attribute plata numeric
+@attribute play numeric
+@attribute please numeric
+@attribute plus numeric
+@attribute pobre numeric
+@attribute podemos numeric
+@attribute poder numeric
+@attribute podes numeric
+@attribute podre numeric
+@attribute podrian numeric
+@attribute podrias numeric
+@attribute podrida numeric
+@attribute podrido numeric
+@attribute poner numeric
+@attribute pongan numeric
+@attribute pongas numeric
+@attribute porfa numeric
+@attribute porfavor numeric
+@attribute poronga numeric
+@attribute porq numeric
+@attribute porqueria numeric
+@attribute portabilidad numeric
+@attribute posible numeric
+@attribute postulate numeric
+@attribute pq numeric
+@attribute precio numeric
+@attribute preferencia numeric
+@attribute pregunta numeric
+@attribute preguntar numeric
+@attribute pregunto numeric
+@attribute primer numeric
+@attribute primera numeric
+@attribute primero numeric
+@attribute primeros numeric
+@attribute problema numeric
+@attribute problemas numeric
+@attribute proceso numeric
+@attribute productos numeric
+@attribute programa numeric
+@attribute promo numeric
+@attribute promocion numeric
+@attribute promociones numeric
+@attribute pronto numeric
+@attribute propaganda numeric
+@attribute propagandas numeric
+@attribute pu numeric
+@attribute publicidad numeric
+@attribute publico numeric
+@attribute pude numeric
+@attribute pueda numeric
+@attribute puede numeric
+@attribute pueden numeric
+@attribute puedo numeric
+@attribute pues numeric
+@attribute punto numeric
+@attribute puro numeric
+@attribute puta numeric
+@attribute puto numeric
+@attribute putos numeric
+@attribute py numeric
+@attribute qeria numeric
+@attribute queda numeric
+@attribute quedando numeric
+@attribute quedo numeric
+@attribute quejan numeric
+@attribute quejarme numeric
+@attribute quejas numeric
+@attribute quejo numeric
+@attribute quemar numeric
+@attribute quepaissonriemas numeric
+@attribute queres numeric
+@attribute queria numeric
+@attribute querido numeric
+@attribute quiere numeric
+@attribute quieren numeric
+@attribute quiero numeric
+@attribute quisiera numeric
+@attribute rabia numeric
+@attribute rapida numeric
+@attribute rapido numeric
+@attribute raro numeric
+@attribute ratas numeric
+@attribute ratito numeric
+@attribute rato numeric
+@attribute razon numeric
+@attribute re numeric
+@attribute realidad numeric
+@attribute realizar numeric
+@attribute realize numeric
+@attribute realmente numeric
+@attribute recibidos numeric
+@attribute recibir numeric
+@attribute recibo numeric
+@attribute recien numeric
+@attribute reclamando numeric
+@attribute reclamar numeric
+@attribute reclamo numeric
+@attribute reclamos numeric
+@attribute reconocer numeric
+@attribute recuperar numeric
+@attribute red numeric
+@attribute regalan numeric
+@attribute regalar numeric
+@attribute regalaron numeric
+@attribute regalo numeric
+@attribute reinicie numeric
+@attribute reserva numeric
+@attribute reserve numeric
+@attribute respondan numeric
+@attribute responden numeric
+@attribute responder numeric
+@attribute respondi numeric
+@attribute respondieron numeric
+@attribute respuesta numeric
+@attribute resultados numeric
+@attribute retirar numeric
+@attribute retire numeric
+@attribute retiro numeric
+@attribute revisar numeric
+@attribute revisen numeric
+@attribute revista numeric
+@attribute rita numeric
+@attribute roba numeric
+@attribute roban numeric
+@attribute robando numeric
+@attribute robar numeric
+@attribute robarle numeric
+@attribute robarme numeric
+@attribute robaron numeric
+@attribute robas numeric
+@attribute robe numeric
+@attribute robo numeric
+@attribute rt numeric
+@attribute rumbo numeric
+@attribute s3 numeric
+@attribute s4 numeric
+@attribute sabado numeric
+@attribute sabe numeric
+@attribute saben numeric
+@attribute saber numeric
+@attribute sacar numeric
+@attribute sacaron numeric
+@attribute sajonia numeric
+@attribute saldo numeric
+@attribute sale numeric
+@attribute sali numeric
+@attribute salio numeric
+@attribute salir numeric
+@attribute saludos numeric
+@attribute samsung numeric
+@attribute san numeric
+@attribute santa numeric
+@attribute seguimos numeric
+@attribute seguir numeric
+@attribute segundos numeric
+@attribute seguro numeric
+@attribute seleccion numeric
+@attribute semana numeric
+@attribute semanas numeric
+@attribute senhal numeric
+@attribute serio numeric
+@attribute serios numeric
+@attribute servicio numeric
+@attribute servicios numeric
+@attribute señal numeric
+@attribute señales numeric
+@attribute señor numeric
+@attribute shoping numeric
+@attribute siempre numeric
+@attribute sigan numeric
+@attribute siganme numeric
+@attribute sigo numeric
+@attribute sigue numeric
+@attribute siguen numeric
+@attribute siquiera numeric
+@attribute sirve numeric
+@attribute sistema numeric
+@attribute situacion numeric
+@attribute smartphone numeric
+@attribute sms numeric
+@attribute sol numeric
+@attribute solicitud numeric
+@attribute solo numeric
+@attribute solucion numeric
+@attribute solucionan numeric
+@attribute solucionar numeric
+@attribute solucionaron numeric
+@attribute solucione numeric
+@attribute solucionen numeric
+@attribute solucionenme numeric
+@attribute soluciones numeric
+@attribute soluciono numeric
+@attribute sonido numeric
+@attribute sonrei numeric
+@attribute sorprende numeric
+@attribute sos numeric
+@attribute sponsor numeric
+@attribute sr numeric
+@attribute sres numeric
+@attribute srta numeric
+@attribute stand numeric
+@attribute sucursal numeric
+@attribute suerte numeric
+@attribute sufrimiento numeric
+@attribute super numeric
+@attribute supuestamente numeric
+@attribute suscripcion numeric
+@attribute suspendido numeric
+@attribute suspendio numeric
+@attribute tal numeric
+@attribute tamb numeric
+@attribute tampoco numeric
+@attribute tan numeric
+@attribute tardan numeric
+@attribute tarde numeric
+@attribute tarden numeric
+@attribute tarea numeric
+@attribute tarjeta numeric
+@attribute tarjetas numeric
+@attribute taxista numeric
+@attribute tb numeric
+@attribute teclado numeric
+@attribute tecnica numeric
+@attribute tecnico numeric
+@attribute tecnicos numeric
+@attribute tecnologia numeric
+@attribute telefonia numeric
+@attribute telefonica numeric
+@attribute telefono numeric
+@attribute telefonos numeric
+@attribute teleoperadores numeric
+@attribute televisores numeric
+@attribute tema numeric
+@attribute tembo numeric
+@attribute temporada numeric
+@attribute tener numeric
+@attribute tenes numeric
+@attribute termino numeric
+@attribute the numeric
+@attribute thekillerpy numeric
+@attribute thekillerspy numeric
+@attribute thrones numeric
+@attribute tiempo numeric
+@attribute tiempos numeric
+@attribute tigo numeric
+@attribute tigodezer numeric
+@attribute tigomoney numeric
+@attribute tigomusica numeric
+@attribute tigotv numeric
+@attribute tigotvhd numeric
+@attribute tipo numeric
+@attribute tirar numeric
+@attribute titular numeric
+@attribute tkm numeric
+@attribute tngo numeric
+@attribute to numeric
+@attribute toda numeric
+@attribute todas numeric
+@attribute todavia numeric
+@attribute todosputos numeric
+@attribute tomaron numeric
+@attribute tortuga numeric
+@attribute total numeric
+@attribute trabajo numeric
+@attribute traigan numeric
+@attribute tranquilo numeric
+@attribute transmision numeric
+@attribute tratan numeric
+@attribute tratando numeric
+@attribute trato numeric
+@attribute tres numeric
+@attribute triste numeric
+@attribute tv numeric
+@attribute twiter numeric
+@attribute uds numeric
+@attribute ultima numeric
+@attribute unas numeric
+@attribute unica numeric
+@attribute unicanal numeric
+@attribute unico numeric
+@attribute urgente numeric
+@attribute usando numeric
+@attribute usar numeric
+@attribute uso numeric
+@attribute ustedes numeric
+@attribute usuario numeric
+@attribute usuarios numeric
+@attribute uy numeric
+@attribute va numeric
+@attribute valdez numeric
+@attribute vale numeric
+@attribute vamos numeric
+@attribute van numeric
+@attribute varios numeric
+@attribute vas numeric
+@attribute vayanse numeric
+@attribute veces numeric
+@attribute vecino numeric
+@attribute velocidad numeric
+@attribute ven numeric
+@attribute vendan numeric
+@attribute vende numeric
+@attribute venden numeric
+@attribute vengan numeric
+@attribute vengo numeric
+@attribute venta numeric
+@attribute veo numeric
+@attribute ver numeric
+@attribute verdad numeric
+@attribute verdadera numeric
+@attribute veremos numeric
+@attribute verguenza numeric
+@attribute verificada numeric
+@attribute verificar numeric
+@attribute verle numeric
+@attribute ves numeric
+@attribute vez numeric
+@attribute via numeric
+@attribute vida numeric
+@attribute vieja numeric
+@attribute viendo numeric
+@attribute viene numeric
+@attribute vienen numeric
+@attribute viernes numeric
+@attribute vinieron numeric
+@attribute vino numeric
+@attribute vip numeric
+@attribute vivo numeric
+@attribute volver numeric
+@attribute vos numeric
+@attribute vox numeric
+@attribute voy numeric
+@attribute voz numeric
+@attribute vs numeric
+@attribute vuelta numeric
+@attribute web numeric
+@attribute whatsap numeric
+@attribute wifi numeric
+@attribute wtf numeric
+@attribute xd numeric
+@attribute xq numeric
+@attribute yamadas numeric
+@attribute yeta numeric
+@attribute youtube numeric
+@attribute z10 numeric
+@attribute zona numeric
+@attribute ~ numeric
+@attribute ñemby numeric
+@attribute “ numeric
+@attribute ﻿ numeric
+@attribute polarity {POS,NEG,NEU}
+
+@data
+
+{751 1,772 1,776 1,927 1,1133 1}
+{20 1,104 1,416 1,468 1}
+{20 1,442 1,447 1,784 1,1028 1,1092 1}
+{134 1,177 1,787 1,1121 1}
+{352 1,556 1,944 1}
+{343 1,386 1,433 1,468 1,556 1,698 1,838 1,1018 1,1025 1,1091 1}
+{216 1,562 1,619 1,625 1,767 1,947 1,1047 1,1115 1}
+{124 1,290 1,516 1,622 1,1082 1,1121 1}
+{119 1,668 1,1023 1}
+{19 1,260 1,352 1,836 1}
+{442 1,622 1,1028 1}
+{352 1}
+{121 1,410 1,982 1}
+{20 1,104 1}
+{120 1,442 1}
+{402 1}
+{352 1,402 1}
+{352 1,402 1,741 1,1028 1}
+{442 1}
+{352 1,384 1,414 1,439 1,1110 1}
+{221 1,442 1,948 1,1028 1}
+{444 1,670 1,815 1,940 1,1004 1}
+{35 1,117 1,150 1,352 1,359 1}
+{352 1,506 1}
+{31 1,771 1}
+{352 1}
+{352 1,442 1,1028 1}
+{1033 1}
+{352 1,442 1}
+{557 1,984 1}
+{352 1,524 1,859 1,888 1}
+{352 1,442 1,658 1}
+{61 1,442 1,658 1}
+{352 1}
+{352 1,363 1,442 1,482 1,836 1,899 1}
+{346 1,352 1,442 1,443 1,925 1,1068 1}
+{352 1,1028 1}
+{343 1,1075 1}
+{17 1,388 1,442 1,859 1,947 1,1028 1}
+{35 1,352 1}
+{178 1,404 1,442 1}
+{21 1,647 1,830 1,1003 1,1046 1,1133 1,1134 NEG}
+{827 1,1134 NEG}
+{907 1,952 1,1134 NEG}
+{298 1,909 1,1028 1,1134 NEG}
+{532 1,906 1,927 1,977 1,1028 1,1134 NEG}
+{271 1,442 1,827 1,1003 1,1134 NEG}
+{351 1,400 1,464 1,830 1,1028 1,1134 NEG}
+{225 1,935 1,941 1,1072 1,1134 NEG}
+{104 1,133 1,323 1,442 1,741 1,803 1,880 1,1032 1,1134 NEG}
+{979 1,1134 NEG}
+{1028 1,1102 1,1134 NEG}
+{162 1,636 1,979 1,1028 1,1134 NEG}
+{60 1,188 1,627 1,906 1,995 1,1134 NEG}
+{420 1,464 1,796 1,1068 1,1134 NEG}
+{289 1,533 1,858 1,1134 NEG}
+{271 1,351 1,1134 NEG}
+{388 1,850 1,873 1,946 1,1113 1,1134 NEG}
+{302 1,523 1,636 1,780 1,935 1,941 1,946 1,948 1,1134 NEG}
+{464 1,501 1,830 1,852 1,1073 1,1092 1,1103 1,1134 NEG}
+{107 1,183 1,250 1,281 1,357 1,495 1,516 1,546 1,736 1,1134 NEG}
+{389 1,525 1,646 1,819 1,952 1,960 1,1113 1,1134 NEG}
+{461 1,636 1,805 1,1134 NEG}
+{595 1,1134 NEG}
+{66 1,91 1,357 1,561 1,594 1,636 1,659 1,946 1,997 1,1114 1,1115 1,1134 NEG}
+{140 1,270 1,352 1,456 1,1028 1,1037 1,1134 NEG}
+{65 1,380 1,524 1,612 1,644 1,1011 1,1026 1,1134 NEG}
+{142 1,350 1,846 1,948 1,955 1,979 1,1063 1,1113 1,1134 NEG}
+{144 1,416 1,929 1,941 1,1134 NEG}
+{155 1,322 1,351 1,639 1,738 1,782 1,1134 NEG}
+{322 1,389 1,460 1,819 1,909 1,927 1,952 1,960 1,1063 1,1134 NEG}
+{38 1,188 1,270 1,515 1,516 1,1042 1,1134 NEG}
+{193 1,439 1,592 1,725 1,946 1,1134 NEG}
+{503 1,546 1,872 1,927 1,1068 1,1134 NEG}
+{195 1,516 1,611 1,636 1,729 1,760 1,782 1,907 1,948 1,1078 1,1134 NEG}
+{516 1,598 1,650 1,1134 NEG}
+{66 1,133 1,169 1,250 1,307 1,317 1,443 1,566 1,724 1,835 1,863 1,1134 NEG}
+{1017 1,1134 NEG}
+{234 1,636 1,679 1,711 1,859 1,872 1,923 1,927 1,1134 NEG}
+{389 1,646 1,819 1,952 1,960 1,1134 NEG}
+{351 1,1134 NEG}
+{300 1,481 1,909 1,1076 1,1134 NEG}
+{43 1,174 1,561 1,564 1,1028 1,1080 1,1134 NEG}
+{190 1,443 1,766 1,1134 NEG}
+{21 1,267 1,277 1,317 1,461 1,637 1,827 1,1003 1,1060 1,1134 NEG}
+{19 1,65 1,774 1,775 1,946 1,994 1,1134 NEG}
+{86 1,317 1,429 1,473 1,485 1,516 1,518 1,529 1,737 1,922 1,1134 NEG}
+{139 1,487 1,613 1,652 1,946 1,1010 1,1028 1,1134 NEG}
+{21 1,25 1,65 1,71 1,314 1,317 1,633 1,782 1,946 1,1054 1,1134 NEG}
+{398 1,459 1,636 1,923 1,1028 1,1057 1,1134 NEG}
+{243 1,1134 NEG}
+{625 1,778 1,947 1,1134 NEG}
+{1134 NEG}
+{267 1,636 1,946 1,1096 1,1134 NEG}
+{323 1,516 1,567 1,693 1,714 1,817 1,849 1,946 1,968 1,1058 1,1134 NEG}
+{546 1,1134 NEG}
+{267 1,354 1,636 1,959 1,1019 1,1057 1,1134 NEG}
+{267 1,946 1,956 1,959 1,1019 1,1096 1,1134 NEG}
+{283 1,699 1,700 1,714 1,775 1,946 1,974 1,1100 1,1134 NEG}
+{298 1,492 1,1042 1,1085 1,1134 NEG}
+{303 1,461 1,516 1,738 1,836 1,911 1,1134 NEG}
+{306 1,1134 NEG}
+{60 1,292 1,407 1,421 1,469 1,587 1,751 1,878 1,958 1,1091 1,1105 1,1134 NEG}
+{156 1,170 1,337 1,521 1,587 1,756 1,818 1,969 1,1068 1,1115 1,1134 NEG}
+{43 1,322 1,357 1,693 1,729 1,948 1,1028 1,1134 NEG}
+{314 1,495 1,946 1,1028 1,1134 NEG}
+{546 1,604 1,607 1,689 1,731 1,980 1,1079 1,1134 NEG}
+{384 1,410 1,487 1,756 1,1068 1,1126 1,1134 NEG}
+{285 1,322 1,627 1,647 1,759 1,859 1,946 1,948 1,952 1,1068 1,1072 1,1105 1,1134 NEG}
+{818 1,884 1,973 1,1134 NEG}
+{267 1,315 1,352 1,402 1,626 1,909 1,1096 1,1134 NEG}
+{303 1,865 1,909 1,1134 NEG}
+{140 1,270 1,352 1,456 1,1028 1,1037 1,1134 NEG}
+{525 1,1028 1,1042 1,1134 NEG}
+{19 1,21 1,65 1,66 1,357 1,482 1,484 1,618 1,805 1,997 1,1134 NEG}
+{38 1,395 1,506 1,729 1,946 1,1129 1,1134 NEG}
+{518 1,1134 NEG}
+{96 1,529 1,896 1,1134 NEG}
+{663 1,940 1,1134 NEG}
+{21 1,585 1,674 1,840 1,948 1,1134 NEG}
+{546 1,1134 NEG}
+{546 1,1134 NEG}
+{317 1,323 1,532 1,682 1,999 1,1134 NEG}
+{26 1,126 1,339 1,392 1,503 1,693 1,793 1,946 1,1100 1,1134 NEG}
+{636 1,699 1,946 1,1134 NEG}
+{4 1,38 1,515 1,521 1,613 1,740 1,854 1,1072 1,1091 1,1115 1,1131 1,1134 NEG}
+{351 1,454 1,558 1,673 1,1134 NEG}
+{292 1,421 1,487 1,689 1,946 1,1097 1,1134 NEG}
+{126 1,421 1,516 1,938 1,943 1,1072 1,1134 NEG}
+{21 1,593 1,706 1,816 1,830 1,1003 1,1134 NEG}
+{265 1,392 1,778 1,1053 1,1095 1,1100 1,1112 1,1134 NEG}
+{413 1,459 1,485 1,639 1,818 1,836 1,1134 NEG}
+{909 1,1134 NEG}
+{133 1,169 1,382 1,751 1,818 1,941 1,972 1,1020 1,1028 1,1056 1,1134 NEG}
+{86 1,150 1,345 1,616 1,744 1,818 1,948 1,973 1,1058 1,1134 NEG}
+{744 1,827 1,857 1,1134 NEG}
+{281 1,421 1,461 1,735 1,819 1,836 1,960 1,966 1,1134 NEG}
+{65 1,190 1,765 1,1134 NEG}
+{552 1,660 1,772 1,775 1,946 1,1028 1,1134 NEG}
+{65 1,191 1,438 1,465 1,701 1,775 1,805 1,946 1,1134 NEG}
+{129 1,239 1,606 1,737 1,1134 NEG}
+{126 1,266 1,281 1,516 1,735 1,775 1,867 1,946 1,1134 NEG}
+{303 1,585 1,780 1,801 1,911 1,1134 NEG}
+{219 1,330 1,996 1,1058 1,1134 NEG}
+{88 1,104 1,449 1,671 1,699 1,922 1,941 1,1028 1,1040 1,1134 NEG}
+{636 1,979 1,996 1,1134 NEG}
+{804 1,946 1,1028 1,1134 NEG}
+{495 1,915 1,956 1,977 1,1020 1,1028 1,1134 NEG}
+{1134 NEG}
+{21 1,341 1,368 1,529 1,818 1,840 1,1134 NEG}
+{52 1,240 1,351 1,636 1,948 1,1056 1,1134 NEG}
+{516 1,657 1,1028 1,1134 NEG}
+{38 1,92 1,585 1,592 1,697 1,1134 NEG}
+{302 1,357 1,525 1,719 1,915 1,1113 1,1134 NEG}
+{236 1,239 1,1134 NEG}
+{60 1,298 1,351 1,443 1,840 1,911 1,1028 1,1134 NEG}
+{636 1,948 1,1028 1,1134 NEG}
+{126 1,156 1,836 1,867 1,944 1,948 1,1066 1,1072 1,1134 NEG}
+{140 1,834 1,944 1,973 1,1061 1,1114 1,1134 NEG}
+{298 1,534 1,772 1,1134 NEG}
+{474 1,647 1,781 1,1134 NEG}
+{859 1,967 1,1028 1,1134 NEG}
+{20 1,21 1,214 1,488 1,516 1,614 1,721 1,840 1,927 1,1134 NEG}
+{351 1,516 1,554 1,558 1,1045 1,1134 NEG}
+{208 1,271 1,1019 1,1134 NEG}
+{516 1,657 1,1134 NEG}
+{351 1,1020 1,1028 1,1134 NEG}
+{351 1,912 1,1134 NEG}
+{636 1,946 1,1134 NEG}
+{180 1,404 1,615 1,805 1,869 1,906 1,1134 NEG}
+{351 1,460 1,788 1,1068 1,1134 NEG}
+{248 1,324 1,473 1,497 1,506 1,561 1,721 1,915 1,927 1,1134 NEG}
+{259 1,352 1,516 1,782 1,915 1,1114 1,1134 NEG}
+{263 1,461 1,562 1,671 1,777 1,819 1,834 1,905 1,937 1,1026 1,1134 NEG}
+{636 1,979 1,996 1,1124 1,1134 NEG}
+{351 1,1134 NEG}
+{65 1,190 1,473 1,580 1,592 1,678 1,755 1,867 1,880 1,1134 NEG}
+{336 1,554 1,657 1,672 1,869 1,1028 1,1134 NEG}
+{59 1,323 1,459 1,775 1,946 1,1134 NEG}
+{60 1,201 1,315 1,487 1,782 1,909 1,1066 1,1095 1,1134 NEG}
+{166 1,323 1,516 1,948 1,1026 1,1134 NEG}
+{482 1,782 1,1076 1,1134 NEG}
+{21 1,106 1,275 1,351 1,451 1,461 1,721 1,780 1,836 1,907 1,944 1,1134 NEG}
+{26 1,351 1,1134 NEG}
+{21 1,26 1,48 1,60 1,118 1,157 1,163 1,421 1,775 1,818 1,948 1,966 1,1134 NEG}
+{727 1,765 1,907 1,1068 1,1134 NEG}
+{561 1,619 1,915 1,927 1,1092 1,1134 NEG}
+{927 1,1134 NEG}
+{41 1,166 1,549 1,806 1,927 1,1134 NEG}
+{145 1,261 1,466 1,629 1,636 1,693 1,825 1,1134 NEG}
+{303 1,492 1,1134 NEG}
+{314 1,461 1,516 1,834 1,946 1,968 1,1012 1,1091 1,1095 1,1134 NEG}
+{435 1,775 1,937 1,946 1,1115 1,1134 NEG}
+{385 1,559 1,560 1,656 1,915 1,927 1,1070 1,1134 NEG}
+{804 1,1134 NEG}
+{153 1,166 1,516 1,555 1,836 1,988 1,1091 1,1134 NEG}
+{314 1,323 1,459 1,516 1,948 1,1124 1,1134 NEG}
+{126 1,323 1,344 1,421 1,427 1,459 1,516 1,555 1,819 1,867 1,1134 NEG}
+{59 1,201 1,470 1,546 1,636 1,909 1,1134 NEG}
+{150 1,303 1,476 1,546 1,636 1,840 1,1134 NEG}
+{357 1,446 1,529 1,644 1,766 1,894 1,963 1,1102 1,1134 NEG}
+{1134 NEG}
+{354 1,492 1,622 1,667 1,1028 1,1134 NEG}
+{100 1,385 1,516 1,657 1,741 1,765 1,946 1,1010 1,1134 NEG}
+{126 1,516 1,644 1,835 1,948 1,969 1,1072 1,1105 1,1134 NEG}
+{63 1,126 1,443 1,516 1,702 1,841 1,867 1,948 1,1072 1,1111 1,1134 NEG}
+{516 1,1082 1,1095 1,1134 NEG}
+{36 1,52 1,175 1,240 1,546 1,570 1,587 1,907 1,927 1,1134 NEG}
+{130 1,153 1,325 1,529 1,546 1,570 1,730 1,784 1,927 1,960 1,1028 1,1134 NEG}
+{546 1,604 1,636 1,697 1,852 1,859 1,1010 1,1041 1,1134 NEG}
+{283 1,427 1,461 1,946 1,1134 NEG}
+{697 1,1134 NEG}
+{188 1,439 1,613 1,744 1,1058 1,1115 1,1134 NEG}
+{314 1,357 1,516 1,729 1,782 1,1134 NEG}
+{20 1,38 1,104 1,459 1,516 1,941 1,1134 NEG}
+{40 1,351 1,421 1,482 1,516 1,1040 1,1134 NEG}
+{351 1,782 1,1134 NEG}
+{351 1,427 1,516 1,673 1,1012 1,1134 NEG}
+{60 1,91 1,165 1,275 1,317 1,451 1,516 1,629 1,639 1,948 1,1134 NEG}
+{796 1,1134 NEG}
+{790 1,996 1,1076 1,1134 NEG}
+{96 1,636 1,763 1,1134 NEG}
+{323 1,325 1,459 1,460 1,516 1,647 1,693 1,775 1,880 1,946 1,948 1,1008 1,1134 NEG}
+{657 1,775 1,884 1,946 1,1134 NEG}
+{555 1,946 1,996 1,1134 NEG}
+{351 1,636 1,948 1,1124 1,1134 NEG}
+{996 1,1134 NEG}
+{191 1,310 1,314 1,465 1,1076 1,1134 NEG}
+{476 1,546 1,661 1,701 1,840 1,1134 NEG}
+{1134 NEG}
+{842 1,1134 NEG}
+{562 1,593 1,706 1,725 1,927 1,1134 NEG}
+{459 1,461 1,636 1,721 1,836 1,946 1,1134 NEG}
+{636 1,979 1,1134 NEG}
+{421 1,1134 NEG}
+{11 1,506 1,516 1,726 1,750 1,946 1,972 1,1012 1,1134 NEG}
+{516 1,750 1,941 1,1040 1,1134 NEG}
+{775 1,946 1,1134 NEG}
+{60 1,354 1,775 1,840 1,907 1,909 1,1134 NEG}
+{289 1,352 1,354 1,460 1,636 1,667 1,765 1,841 1,855 1,860 1,923 1,946 1,1134 NEG}
+{351 1,869 1,1134 NEG}
+{307 1,459 1,465 1,516 1,555 1,873 1,1026 1,1095 1,1134 NEG}
+{1066 1,1134 NEG}
+{208 1,400 1,466 1,746 1,859 1,967 1,1042 1,1095 1,1134 NEG}
+{636 1,1134 NEG}
+{411 1,636 1,699 1,836 1,840 1,946 1,1091 1,1134 NEG}
+{184 1,461 1,546 1,867 1,927 1,1068 1,1134 NEG}
+{281 1,735 1,804 1,927 1,1134 NEG}
+{275 1,342 1,525 1,585 1,1134 NEG}
+{385 1,488 1,906 1,927 1,1020 1,1134 NEG}
+{225 1,554 1,667 1,750 1,1134 NEG}
+{442 1,927 1,1028 1,1134 NEG}
+{1068 1,1102 1,1134 NEG}
+{840 1,1079 1,1134 NEG}
+{203 1,303 1,352 1,927 1,1134 NEG}
+{86 1,421 1,503 1,726 1,819 1,884 1,946 1,1134 NEG}
+{682 1,842 1,912 1,1134 NEG}
+{322 1,330 1,442 1,487 1,516 1,764 1,1047 1,1134 NEG}
+{336 1,516 1,705 1,948 1,1019 1,1028 1,1134 NEG}
+{150 1,332 1,636 1,639 1,840 1,1134 NEG}
+{327 1,476 1,702 1,840 1,1003 1,1133 1,1134 NEU}
+{252 1,448 1,488 1,927 1,1046 1,1070 1,1134 NEU}
+{241 1,789 1,1028 1,1134 NEU}
+{526 1,827 1,868 1,1003 1,1134 NEU}
+{65 1,171 1,1028 1,1134 NEU}
+{411 1,1016 1,1134 NEU}
+{361 1,406 1,919 1,1134 NEU}
+{322 1,619 1,1134 NEU}
+{344 1,1134 NEU}
+{267 1,1134 NEU}
+{65 1,483 1,487 1,859 1,923 1,1134 NEU}
+{65 1,395 1,483 1,521 1,727 1,859 1,935 1,941 1,1134 NEU}
+{233 1,263 1,516 1,628 1,782 1,859 1,923 1,1134 NEU}
+{231 1,559 1,629 1,782 1,966 1,1028 1,1134 NEU}
+{231 1,461 1,860 1,1134 NEU}
+{144 1,263 1,269 1,469 1,1134 NEU}
+{21 1,65 1,141 1,403 1,624 1,831 1,947 1,996 1,1070 1,1134 NEU}
+{74 1,482 1,487 1,831 1,1134 NEU}
+{442 1,703 1,1134 NEU}
+{905 1,935 1,1028 1,1056 1,1134 NEU}
+{205 1,399 1,419 1,487 1,718 1,723 1,1134 NEU}
+{144 1,684 1,948 1,967 1,1028 1,1056 1,1134 NEU}
+{14 1,221 1,363 1,836 1,1134 NEU}
+{614 1,632 1,1134 NEU}
+{231 1,462 1,836 1,1134 NEU}
+{395 1,632 1,727 1,729 1,730 1,836 1,1032 1,1072 1,1134 NEU}
+{1134 NEU}
+{106 1,263 1,1128 1,1134 NEU}
+{34 1,136 1,191 1,263 1,375 1,690 1,1028 1,1134 NEU}
+{1134 NEU}
+{65 1,190 1,691 1,1134 NEU}
+{38 1,324 1,686 1,836 1,923 1,1028 1,1124 1,1134 NEU}
+{21 1,703 1,756 1,1134 NEU}
+{325 1,1134 NEU}
+{341 1,370 1,859 1,1134 NEU}
+{263 1,284 1,727 1,859 1,923 1,1028 1,1056 1,1134 NEU}
+{263 1,289 1,681 1,782 1,793 1,860 1,899 1,1134 NEU}
+{495 1,956 1,1134 NEU}
+{411 1,1028 1,1056 1,1134 NEU}
+{252 1,836 1,951 1,1134 NEU}
